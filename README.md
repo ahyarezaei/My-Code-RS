@@ -1,2 +1,2 @@
 # My-Code-RS
-A Simple Codes for my class projects
+ Simple Codes for my class projects
